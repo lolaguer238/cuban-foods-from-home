@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid= "https://lolaguer238.github.io/cuban-foods-from-home/image/harina_004" %}
+{% include feature/jumbotron.html objectid= "https://lolaguer238.github.io/cuban-foods-from-home/image/harina_004.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
